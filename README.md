@@ -18,6 +18,8 @@ First, install Python, Jupyter Notebook or an Integrated Development Environment
 Then, create a virtual environment for managing dependencies.
 
 
+## Importing libraries and loading dataset
+
 ```
 import pandas as pd
 import numpy as np
